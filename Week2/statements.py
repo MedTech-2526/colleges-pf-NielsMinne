@@ -46,3 +46,5 @@ elif grade >= 60:
     print("Je hebt een D.")
 else:
     print("Je hebt een F.")
+
+    print
