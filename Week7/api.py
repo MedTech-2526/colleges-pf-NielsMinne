@@ -13,8 +13,6 @@ import requests
 
 #Post
 
-import requests
-
 # url = "https://jsonplaceholder.typicode.com/posts"
 # data = {
 #     "title": "Nieuwe Post",
